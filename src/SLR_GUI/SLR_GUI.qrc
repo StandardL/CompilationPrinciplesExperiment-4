@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/analyzser.ico</file>
+    </qresource>
+</RCC>
